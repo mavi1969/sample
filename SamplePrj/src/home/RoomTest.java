@@ -11,8 +11,8 @@ public class RoomTest {
 		
 		Set<String> keySets = new HashSet<>(Arrays.asList("a", "b"));
 
-		System.out.println("test");
-		System.out.println("test");
+		System.out.println("test1");
+		System.out.println("test2");
 	}
 
 }
